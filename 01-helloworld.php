@@ -15,6 +15,8 @@
     <?php //ouverture de PHP
     //echo pour affiché la ligne echo"text";
     echo "<h1>Hello World</h1>";
+    // print pour affiché aussi 
+    print "<h1>Hello World</h1>"
    //fermeture de PHP ?> 
 </body>
 </html>
