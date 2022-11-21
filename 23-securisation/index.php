@@ -33,4 +33,3 @@ if(isset($_GET['page'])){
 }else{
     include "pages/homepage.php";
 }
-
